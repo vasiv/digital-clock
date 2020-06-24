@@ -1,5 +1,5 @@
 TimeQuest Timing Analyzer report for zegar
-Wed Jun 24 13:06:57 2020
+Wed Jun 24 14:13:42 2020
 Quartus II 32-bit Version 12.0 Build 178 05/31/2012 SJ Web Edition
 
 
@@ -955,7 +955,7 @@ No dedicated SERDES Receiver circuitry present in device or used in design
 Info: *******************************************************************
 Info: Running Quartus II 32-bit TimeQuest Timing Analyzer
     Info: Version 12.0 Build 178 05/31/2012 SJ Web Edition
-    Info: Processing started: Wed Jun 24 13:06:54 2020
+    Info: Processing started: Wed Jun 24 14:13:40 2020
 Info: Command: quartus_sta zegar -c zegar
 Info: qsta_default_script.tcl version: #4
 Warning (20028): Parallel compilation is not licensed and has been disabled
@@ -1004,8 +1004,8 @@ Info (332102): Design is not fully constrained for setup requirements
 Info (332102): Design is not fully constrained for hold requirements
 Info: Quartus II 32-bit TimeQuest Timing Analyzer was successful. 0 errors, 4 warnings
     Info: Peak virtual memory: 317 megabytes
-    Info: Processing ended: Wed Jun 24 13:06:57 2020
-    Info: Elapsed time: 00:00:03
-    Info: Total CPU time (on all processors): 00:00:03
+    Info: Processing ended: Wed Jun 24 14:13:42 2020
+    Info: Elapsed time: 00:00:02
+    Info: Total CPU time (on all processors): 00:00:01
 
 

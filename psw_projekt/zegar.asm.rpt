@@ -1,5 +1,5 @@
 Assembler report for zegar
-Wed Jun 24 13:06:58 2020
+Wed Jun 24 14:13:43 2020
 Quartus II 32-bit Version 12.0 Build 178 05/31/2012 SJ Web Edition
 
 
@@ -38,7 +38,7 @@ applicable agreement for further details.
 +---------------------------------------------------------------+
 ; Assembler Summary                                             ;
 +-----------------------+---------------------------------------+
-; Assembler Status      ; Successful - Wed Jun 24 13:06:58 2020 ;
+; Assembler Status      ; Successful - Wed Jun 24 14:13:43 2020 ;
 ; Revision Name         ; zegar                                 ;
 ; Top-level Entity Name ; zegar                                 ;
 ; Family                ; Cyclone II                            ;
@@ -117,14 +117,14 @@ applicable agreement for further details.
 Info: *******************************************************************
 Info: Running Quartus II 32-bit Assembler
     Info: Version 12.0 Build 178 05/31/2012 SJ Web Edition
-    Info: Processing started: Wed Jun 24 13:06:54 2020
+    Info: Processing started: Wed Jun 24 14:13:40 2020
 Info: Command: quartus_asm --read_settings_files=off --write_settings_files=off zegar -c zegar
 Info (115031): Writing out detailed assembly data for power analysis
 Info (115030): Assembler is generating device programming files
 Info: Quartus II 32-bit Assembler was successful. 0 errors, 0 warnings
     Info: Peak virtual memory: 343 megabytes
-    Info: Processing ended: Wed Jun 24 13:06:58 2020
-    Info: Elapsed time: 00:00:04
-    Info: Total CPU time (on all processors): 00:00:04
+    Info: Processing ended: Wed Jun 24 14:13:43 2020
+    Info: Elapsed time: 00:00:03
+    Info: Total CPU time (on all processors): 00:00:03
 
 
